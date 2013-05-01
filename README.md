@@ -1,3 +1,6 @@
+This is port of as3tohaxe to Haxe 3
+Original code can be found here: https://code.google.com/p/haxe/source/browse/#svn%2Fother%2Fas3hx
+
 ===========
 Config file
 ===========

@@ -1,6 +1,9 @@
 as3tohaxe 
 =========
 
+UPDATE: Caue Waneck told me that exist newer version, which you can find here: 
+https://code.google.com/p/caffeine-hx/source/browse/trunk#trunk%2Fprojects%2Fas3hx
+
 AS3 to Haxe code conversion tool
 
 This is port of __as3tohaxe__ to Haxe 3
